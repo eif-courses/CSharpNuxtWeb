@@ -1,0 +1,1 @@
+server is works separate Nitro server you can have Backend logic here

@@ -1,0 +1,1 @@
+Simple short reusable functions
